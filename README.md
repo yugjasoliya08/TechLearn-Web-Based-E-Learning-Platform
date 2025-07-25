@@ -106,7 +106,8 @@ For major changes or suggestions, please open an issue first to discuss.
 
 ---
 
-# 👨‍💻 Author
-Yug Jasoliya
-📧 Yugjasoliya49@gmail.com
-Linkdin:https://www.linkedin.com/in/yug-jasoliya-69691126b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+## 👨‍💻 Author
+**Yug Jasoliya**  
+📧 Email: [yugjasoliya49@gmail.com](mailto:yugjasoliya49@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/yug-jasoliya](https://www.linkedin.com/in/yug-jasoliya-69691126b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
