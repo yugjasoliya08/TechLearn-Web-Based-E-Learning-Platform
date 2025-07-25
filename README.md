@@ -39,30 +39,33 @@ A user-friendly web-based E-learning platform developed in PHP to provide catego
 ---
 
 ## 📁 Project Structure
+
 TechLearn-Web-Based-E-Learning-Platform/
-├── Admin/                   # Admin panel (course & user management)
-├── Student/                 # Student dashboard and profiles
-├── css/                     # Styling (CSS files)
-├── image/                   # Image assets
-├── js/                      # Client-side JavaScript files
-├── lessonvid/               # Video tutorials for lessons
-├── mainInclude/             # Common includes (header, footer, etc.)
-├── video/                   # Additional video resources
-├── checkout.php             # Payment processing script
-├── contact.php              # Contact page
-├── coursedetails.php        # Course detail page
-├── courses.php              # Course listings page
-├── dbConnection.php         # Database connection config
-├── index.php                # Home page
-├── lms_db.sql               # Database schema and initial data
-├── loginorsignup.php        # User login and registration page
-├── logout.php               # User logout script
-├── pageNotFound.php         # 404 error page
-├── paymentdone.php          # Payment success handler
-├── paymentstatus.php        # Payment status page
-├── studentRegistration.php  # Student registration processing
-├── README.md                # Project documentation
-├── .gitattributes           # Git configuration file
+| File/Folder Name          | Description                                                                |
+| ------------------------- | -------------------------------------------------------------------------- |
+| `Admin/`                  | Contains admin panel files for managing users, courses, and dashboard.     |
+| `Student/`                | Contains student-side pages like dashboard, enrolled courses, profile etc. |
+| `css/`                    | Holds all custom CSS files for styling the web pages.                      |
+| `image/`                  | Contains image assets (logo, banners, icons, etc.).                        |
+| `js/`                     | JavaScript files for client-side interactivity.                            |
+| `lessonvid/`              | Stores course lesson videos uploaded by admins.                            |
+| `mainInclude/`            | Reusable components like header, footer, and navbar.                       |
+| `video/`                  | Contains other videos (promos, intros, etc.).                              |
+| `checkout.php`            | Handles the course payment checkout process.                               |
+| `contact.php`             | Contact form page for user inquiries.                                      |
+| `coursedetails.php`       | Displays detailed information about a specific course.                     |
+| `courses.php`             | Shows a list/grid of available courses.                                    |
+| `dbConnection.php`        | Establishes connection to the MySQL database.                              |
+| `index.php`               | Homepage of the E-Learning platform.                                       |
+| `lms_db.sql`              | SQL file containing DB schema and sample data.                             |
+| `loginorsignup.php`       | Unified page for user login and registration.                              |
+| `logout.php`              | Logs the user out of the current session.                                  |
+| `pageNotFound.php`        | Custom 404 error page.                                                     |
+| `paymentdone.php`         | Displays payment success confirmation.                                     |
+| `paymentstatus.php`       | Handles and shows the result of payment process.                           |
+| `studentRegistration.php` | Backend logic to register new students.                                    |
+| `README.md`               | Project documentation file.                                                |
+| `.gitattributes`          | Git config file for line endings and text file handling.                   |
 
 ---
 
