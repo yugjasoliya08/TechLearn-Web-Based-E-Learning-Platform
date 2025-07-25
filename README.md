@@ -4,7 +4,7 @@ A user-friendly web-based E-learning platform developed in PHP to provide catego
 
 ---
 
-## 📌 Project Overview
+# 📌 Project Overview
 
 - **Type**: Full Stack Web Application  
 - **Technology Stack**: PHP, MySQL, HTML, CSS, JavaScript, XAMPP  
@@ -12,7 +12,7 @@ A user-friendly web-based E-learning platform developed in PHP to provide catego
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 
 - Secure user registration and login system  
 - Admin dashboard for managing courses and users  
@@ -27,7 +27,7 @@ A user-friendly web-based E-learning platform developed in PHP to provide catego
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 | Category         | Tools & Frameworks                  |
 |------------------|-------------------------------------|
@@ -38,7 +38,7 @@ A user-friendly web-based E-learning platform developed in PHP to provide catego
 
 ---
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 TechLearn-Web-Based-E-Learning-Platform/
 | File/Folder Name          | Description                                                                |
@@ -69,7 +69,7 @@ TechLearn-Web-Based-E-Learning-Platform/
 
 ---
 
-## 🧑‍💻 Installation and Setup
+# 🧑‍💻 Installation and Setup
 Clone the repository:
 git clone https://github.com/yugjasoliya08/TechLearn-Web-Based-E-Learning-Platform.git
 cd TechLearn-Web-Based-E-Learning-Platform
@@ -90,7 +90,7 @@ http://localhost/TechLearn-Web-Based-E-Learning-Platform/index.php
 
 ---
 
-## ⚙️ How It Works
+# ⚙️ How It Works
 Users register or login via loginorsignup.php.
 Students browse courses listed in courses.php.
 Upon selecting a course, detailed content and videos are shown (coursedetails.php).
@@ -99,14 +99,14 @@ User progress and payments are tracked and updated in real time.
 
 ---
 
-## 🤝 Contributing
+# 🤝 Contributing
 Contributions are always welcome!
 Feel free to fork the repository and submit pull requests.
 For major changes or suggestions, please open an issue first to discuss.
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 Yug Jasoliya
 📧 Yugjasoliya49@gmail.com
 Linkdin:https://www.linkedin.com/in/yug-jasoliya-69691126b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
