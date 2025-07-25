@@ -24,7 +24,7 @@ A user-friendly web-based E-learning platform developed in PHP to provide catego
 ---
 
 ## 📷 Screenshot
-![Uploading Screenshot (133).png…]()
+<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/67cde811-7fbe-4b0f-94f2-79c97bc0c4e3" />
 
 ---
 
