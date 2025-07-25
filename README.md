@@ -25,6 +25,7 @@ A user-friendly web-based E-learning platform developed in PHP to provide catego
 
 ## 📷 Screenshot
 
+---
 
 ## 🛠️ Technologies Used
 
@@ -38,37 +39,35 @@ A user-friendly web-based E-learning platform developed in PHP to provide catego
 ---
 
 ## 📁 Project Structure
-
 TechLearn-Web-Based-E-Learning-Platform/
-├── Admin/                   # Admin panel files (course management, user management)
-├── Student/                 # Student dashboard and profile management
-├── css/                     # CSS files for styling
-├── image/                   # Image assets used in the project
-├── js/                      # JavaScript files for client-side functionality
-├── lessonvid/               # Video tutorial files for lessons
-├── mainInclude/             # Common include files (header, footer, etc.)
-├── video/                   # Video files or resources
-├── checkout.php             # Payment checkout script
-├── contact.php              # Contact page script
+├── Admin/                   # Admin panel (course & user management)
+├── Student/                 # Student dashboard and profiles
+├── css/                     # Styling (CSS files)
+├── image/                   # Image assets
+├── js/                      # Client-side JavaScript files
+├── lessonvid/               # Video tutorials for lessons
+├── mainInclude/             # Common includes (header, footer, etc.)
+├── video/                   # Additional video resources
+├── checkout.php             # Payment processing script
+├── contact.php              # Contact page
 ├── coursedetails.php        # Course detail page
-├── courses.php              # Courses listing page
-├── dbConnection.php         # Database connection configuration
-├── index.php                # Home page of the application
-├── lms_db.sql               # Database schema and data dump file
-├── loginorsignup.php        # Login and signup page
-├── logout.php               # Logout script
+├── courses.php              # Course listings page
+├── dbConnection.php         # Database connection config
+├── index.php                # Home page
+├── lms_db.sql               # Database schema and initial data
+├── loginorsignup.php        # User login and registration page
+├── logout.php               # User logout script
 ├── pageNotFound.php         # 404 error page
 ├── paymentdone.php          # Payment success handler
-├── paymentstatus.php        # Payment status checking page
-├── studentRegistration.php  # Student registration processing script
-├── README.md                # Project documentation and overview
-├── .gitattributes           # Git attributes file for repo configuration
+├── paymentstatus.php        # Payment status page
+├── studentRegistration.php  # Student registration processing
+├── README.md                # Project documentation
+├── .gitattributes           # Git configuration file
 
-
+---
 
 ## 🧑‍💻 Installation and Setup
 Clone the repository:
-bash
 git clone https://github.com/yugjasoliya08/TechLearn-Web-Based-E-Learning-Platform.git
 cd TechLearn-Web-Based-E-Learning-Platform
 
@@ -86,6 +85,8 @@ Run the Application:
 Open browser and go to:
 http://localhost/TechLearn-Web-Based-E-Learning-Platform/index.php
 
+---
+
 ## ⚙️ How It Works
 Users register or login via loginorsignup.php.
 Students browse courses listed in courses.php.
@@ -93,10 +94,14 @@ Upon selecting a course, detailed content and videos are shown (coursedetails.ph
 Admin manages courses, users, and payment status from the Admin panel.
 User progress and payments are tracked and updated in real time.
 
+---
+
 ## 🤝 Contributing
 Contributions are always welcome!
 Feel free to fork the repository and submit pull requests.
 For major changes or suggestions, please open an issue first to discuss.
+
+---
 
 ## 👨‍💻 Author
 Yug Jasoliya
